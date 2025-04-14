@@ -177,11 +177,14 @@ cython_debug/
 **/Untitled*.ipynb
 
 # Images
-*.jpg
+#*.jpg
 
 # Data
 data/
 data.zip
-*.csv
-*.tsv
-*.xlsx
+#*.csv
+#*.tsv
+#*.xlsx
+
+# Archive folder
+**/archive/
